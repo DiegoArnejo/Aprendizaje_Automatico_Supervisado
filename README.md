@@ -14,5 +14,5 @@ El proyecto evalua un conjunto de datos de eventos de usuarios segun sus atribut
 ### Puntos clave:
 1. **Logica aplicada:** Condiciones explicitas sobre la accion realizada y su resultado.
 2. **Resultado:** Clasificacion precisa para los escenarios previstos en el dataset.
-3. **Limitaciones:** Sistema rigido, sensible a errores de escritura y que no aprovecha variables continuas como duracion.
-4. **Mejora con ML:** Se propone usar **Arboles de Decisión** o **Random Forest** para generalizar mejor, descubrir patrones automaticamente e incorporar el analisis de tiempos (duracion).
+3. **Limitaciones:** Sistema rigido, solo evalua las reglas ya escritas y no aprovecha variables continuas como el tiempo.
+
